@@ -186,49 +186,49 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-red",
-    name: "Amazon Price Tracker",
+    name: "Nike Store",
     description:
-      "Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.",
-    link: "https://github.com/adrianhajdin/pricewise",
+      "Developed a web application that shows stylish nike brand shoes, helping users find the best deals.",
+    link: "https://github.com/Raihanhn/Nike-Store",
   },
   {
     iconUrl: threads,
     theme: "btn-back-green",
-    name: "Full Stack Threads Clone",
+    name: "Full Stack Admin Dashboard",
     description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: "https://github.com/adrianhajdin/threads",
+      "Created a full-stack admin dashboard where admin can view the weekly, monthly and yearly sales and product distribution. Also can view all kind of transaction history.",
+    link: "https://github.com/Raihanhn/Fullstack_Admin",
   },
   {
     iconUrl: car,
     theme: "btn-back-blue",
-    name: "Car Finding App",
+    name: "Travel And Tour Website",
     description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+      "Designed and built a web app for finding and comparing best tourist spots and best deals on the market, streamlining the enjoyable process.",
+    link: "https://github.com/Raihanhn/Travel-and-Tour-Website",
   },
   {
     iconUrl: snapgram,
     theme: "btn-back-pink",
-    name: "Full Stack Instagram Clone",
+    name: "Full Stack Flowmazon App",
     description:
-      "Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.",
-    link: "https://github.com/adrianhajdin/social_media_app",
+      "Built a complete Flowmazon ecommerce web app where user can sign up and order their favourite products. User can add items in cart and see the total price",
+    link: "https://github.com/Raihanhn/Ecommerce-Website",
   },
   {
     iconUrl: estate,
     theme: "btn-back-black",
-    name: "Real-Estate Application",
+    name: "Social App",
     description:
-      "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-    link: "https://github.com/adrianhajdin/projects_realestate",
+      "Developed a web application for social media user. User can read write or post their beautiful moment.",
+    link: "https://github.com/Raihanhn/Social_app",
   },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
-    name: "AI Summarizer Application",
+    name: "Grocery Store",
     description:
-      "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-    link: "https://github.com/adrianhajdin/project_ai_summarizer",
+      "A beautiful website where user can find out best deals for their daily basis grocery products and can read articles or blogs.",
+    link: "https://github.com/Raihanhn/Grocery-Store",
   },
 ];
